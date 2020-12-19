@@ -66,7 +66,7 @@ Verifique o arquivo `database.sql`
 
 - Execute `yarn` na pasta do servidor para instalar todas as dependências.
 
-- Adiciona a variável de ambiente `API_KEY` e tenha certeza de que é a mesma do scraper.
+- Adiciona a variável de ambiente `API_KEY` e tenha certeza de que é a mesma do scraper, também, adicione as variávies do `db.ts`.
 
 - Execute `yarn start`.
 
