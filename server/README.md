@@ -64,8 +64,7 @@ Check the database.sql file.
 
 - Run `yarn` at the server folder to install all dependencies.
 
-- Add an enviroment variable named `API_KEY` and make sure it is the same as the one in the scraper.
-
+- Add an enviroment variable named `API_KEY` and make sure it is the same as the one in the scraper and the enviroment variables at the `db.ts` file.
 - Run `yarn start`.
 
 - Server at http://localhost:8080/
