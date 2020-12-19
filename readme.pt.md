@@ -69,7 +69,7 @@ Scraper
 * [Python](https://www.python.org/)
 * [Selenium](https://www.selenium.dev/)
 
-Website with instructions
+Site com instruções
 * [React](https://reactjs.org/)
 * [Typescript](https://www.typescriptlang.org/)
 * [Styled components](https://styled-components.com/)
