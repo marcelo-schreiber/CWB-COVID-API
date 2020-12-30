@@ -54,8 +54,6 @@ Por quê?
 
 * O tempo para criar aplicativos e sites sobre o corona vírus pode ser bem rigoroso. Mas, esse projeto pode salvar um pouco desse processo.
 
-Needless to say, this API is very focused on my local region. So you may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
 É claro que essa API tem um foco em minha região. Então, você pode sugerir alterações dando um 'fork' e criando um PR ou abrindo um erro em 'issues'.
 
 ### Tecnologias
@@ -82,8 +80,6 @@ Existem três pastas: scraper (recolhimento de dados), server (mostrar dados) e 
 Cada pasta possui um README explicando como instalar e operar na sua máquina.
 
 ## Contribuindo
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 Contribuições são o que faz a comunidade open source ser incrível como ela é. Qualquer contribuição que você faz são **muito bem-vindas**.
 
