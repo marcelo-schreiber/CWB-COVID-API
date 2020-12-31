@@ -35,6 +35,8 @@ A página reinicia de acordo com as alterações.
 
 ## Tecnologias usadas
 
+- Figma [(layout)](https://www.figma.com/file/oE1JPRJD47NX5B16YE7yxI/CWB-API)
+
 - Typescript
 
 - React-icons
