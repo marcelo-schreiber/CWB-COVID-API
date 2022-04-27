@@ -21,6 +21,8 @@
     <a href="https://github.com/marcelo-schreiber/CWB-COVID-API/issues">Report Bug</a>
     ·
     <a href="https://github.com/marcelo-schreiber/CWB-COVID-API/issues">Request Feature</a>
+    .
+    <a href="https://cwbcovid.cf">Example usage</a>
   </p>
 </p>
 
