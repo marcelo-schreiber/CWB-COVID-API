@@ -21,6 +21,8 @@
     <a href="https://github.com/marcelo-schreiber/CWB-COVID-API/issues">Relate um erro</a>
     ·
     <a href="https://github.com/marcelo-schreiber/CWB-COVID-API/issues">Solicitar recurso</a>
+     .
+    <a href="https://cwbcovid.cf">Exemplo de Utilização</a>
   </p>
 </p>
 
